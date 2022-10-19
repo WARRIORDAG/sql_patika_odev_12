@@ -1,0 +1,2 @@
+# sql_patika_odev_12
+sql_patika_odev_12
